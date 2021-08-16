@@ -1,0 +1,1 @@
+/srv/cache_app/env/bin/python3 /srv/cache_app/clear_expirated.py
